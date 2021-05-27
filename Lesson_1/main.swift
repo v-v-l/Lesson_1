@@ -48,5 +48,3 @@ var years: Double = 5
 
 var result = summa * pow((1 + percent / 100), years)
 print("Через \(years) лет вклад будет равен \(result)")
-
-
